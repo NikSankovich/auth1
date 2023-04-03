@@ -1,0 +1,1 @@
+Basic Authgit remote add origin https://github.com/NikSankovich/auth1.git
